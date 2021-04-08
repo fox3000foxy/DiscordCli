@@ -1,4 +1,4 @@
-**** DiscordCli **** _by Fox3000_
+# DiscordCli _by Fox3000_
 This is a command line interface project which allows to be on discord from a terminal...<br>
 Just go on the folder of unziped project and type `discordcli`<br>
 ![image](https://user-images.githubusercontent.com/40730498/114072648-cb6d6480-98a2-11eb-92b3-fbf5ada63430.png)
