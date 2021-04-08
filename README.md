@@ -10,9 +10,9 @@ And for view static image like png or jpg files with [url] as url, just type `#[
 You should have that:
 ![image](https://user-images.githubusercontent.com/40730498/114074041-3e2b0f80-98a4-11eb-8195-8014a8e94d3e.png)
 ```txt
-Tips:\n
-For copy a link on console, select the link and press Enter\n
-For paste, just right click\n
+Tips:
+For copy a link on console, select the link and press Enter
+For paste, just right click
 ```
 Navigate with ⬅️ ➡️ on menus, and ⬆️ ⬇️ for navigate on lists.<br>
 For the moment, only bot can connect to DiscordCli.<br>
