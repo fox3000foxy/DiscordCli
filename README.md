@@ -1,6 +1,6 @@
 # DiscordCli _by Fox3000_
 This is a command line interface project which allows to be on discord from a terminal/command prompt...<br>
-Just go on the folder of unziped project and type `discordcli` on a terminal/command prompt:
+Just go on the folder of unziped project and type `dsCli` on a terminal/command prompt:
 ![image](https://user-images.githubusercontent.com/40730498/114072648-cb6d6480-98a2-11eb-92b3-fbf5ada63430.png)
 For talk with your bot when you are on message, just type your message in console and press `Enter`:
 ![image](https://user-images.githubusercontent.com/40730498/114072784-e93ac980-98a2-11eb-9154-19efdefd56a4.png)
