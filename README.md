@@ -14,8 +14,8 @@ Tips:\n
 For copy a link on console, select the link and press Enter\n
 For paste, just right click\n
 ```
-Navigate with ⬅️ ➡️ on menus, and ⬆️ ⬇️ for navigate on lists
-For the moment, only bot can connect to DiscordCli.
+Navigate with ⬅️ ➡️ on menus, and ⬆️ ⬇️ for navigate on lists.<br>
+For the moment, only bot can connect to DiscordCli.<br>
 Dont forget replace token of your bot in `secrets.json`.
 ```json
 {
